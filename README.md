@@ -3,7 +3,7 @@ About Me
 - 💞️ Favorite languages: C#, Bash, Python.
 - 💞️ Favorite tools:  VS Code, Unity, Blender, Construct 3, GIMP, MagicaVoxel, FL Studio, Notepad++.
 - 💞️ Favorite OS Distro: Mint.
-- 💞️ Favorite tv shows: Leverage, Mr. Robot.
+- 💞️ Favorite tv show: Leverage.
 - 💞️ Favorite Games: Skyrim, Fallout New Vegas.
 - 💞️ Values: Copyleft, OpenSource.
 
